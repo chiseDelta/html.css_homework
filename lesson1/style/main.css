@@ -1,0 +1,25 @@
+.body {
+    background-color: #fff8dc;
+}
+h1{
+    color: #ffb700;
+    text-shadow: 2px 2px 2px #8d4900;
+    font-size: 40px;
+}
+
+h2{
+    background-color: orange;
+    font-size: 30px;
+}
+
+.big{
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+
+li{
+    font-size: 18px;
+}
